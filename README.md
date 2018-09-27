@@ -8,10 +8,6 @@
 - ./client
 - make suer you have the same number of clients as the number of players required (2 clients by default).
 
-# Bonus
-- count down implemented
-- number of players can be modified by changing the defined constent:  `#define NUMPLAYERS`
-
 # Protocol
 - R - registration
 - C - count down
